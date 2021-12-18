@@ -4,7 +4,7 @@ $this->load->view('_partials/header');
 ?>
 <style type="text/css">
 	
-.even
+.even and ob_end_flush
 {
 	background: green;
 }
